@@ -2530,3 +2530,8 @@ body.active .featured-button {
     background-color: black;
     color: white;
 }
+
+---
+---
+
+@import "jekyll-theme-primer";
